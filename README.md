@@ -6,7 +6,7 @@ I am a passionate Computer Science undergraduate at the University of Colombo wi
 
 I enjoy building modern web applications using the MERN Stack while continuously improving my problem-solving and software development skills.
 
-Currently I'm learning Networking, System Design, and Backend Development.
+Currently I'm learning Networking, and Backend Development.
 
 ---
 
