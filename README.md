@@ -21,42 +21,32 @@ I enjoy building practical web and mobile applications using React, React Native
 - 🌍 Based in Sri Lanka
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
+</p>
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,ubuntu" />
+</p>
 ---
 
 # 🚀 Featured Projects
@@ -117,14 +107,28 @@ A mobile application that helps students find suitable project teammates and man
 Collaborated with a team to solve algorithmic programming challenges using Python and concepts including data structures, DFS, recursion, sliding windows, sorting and complexity analysis.
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishan919&show_icons=true&hide_border=true&theme=transparent)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dishan919&show_icons=true&hide_border=true&theme=transparent"
+    alt="Dishanthan's GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishan919&layout=compact&hide_border=true&theme=transparent)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dishan919&theme=transparent&hide_border=true"
+    alt="Dishanthan's GitHub Streak"
+  />
+</p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishan919&layout=compact&hide_border=true&theme=transparent"
+    alt="Dishanthan's Top Languages"
+  />
+</p>
 
 ## 🤝 Connect With Me
 
