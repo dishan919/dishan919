@@ -1,5 +1,10 @@
 # Hi 👋, I'm Suntharampillai Dishanthan
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full+Stack+Developer;React+%7C+React+Native+%7C+MERN;Learning+%7C+Building+%7C+Improving"
+    alt="Typing animation introducing Dishanthan"
+  />
+</p>
 ### Computer Science Undergraduate | Full-Stack Developer
 
 <p>
