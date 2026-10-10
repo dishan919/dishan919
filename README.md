@@ -134,7 +134,24 @@ Collaborated with a team to solve algorithmic programming challenges using Pytho
     alt="Dishanthan's Top Languages"
   />
 </p>
+## 🐍 Contribution Activity
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dishan919/dishan919/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dishan919/dishan919/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Dishanthan's GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/dishan919/dishan919/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suntharampillai-dishanthan-855432350)
